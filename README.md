@@ -16,11 +16,12 @@ My skills:
 <img align="left" alt="Arch" width="30px" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" />
 <img align="left" alt="Bash" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<br />
 
 My contacts:
 ------------
-[<img align="left" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][https://t.me/vanpavlov]
-[<img align="left" alt="Codewars" width="30px" src="https://www.codewars.com/users/ivnpvl/badges/small" />][https://www.codewars.com/users/ivnpvl/]
+[<img align="left" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/vanpavlov)
+[<img align="left" alt="Codewars" width="30px" src="https://www.codewars.com/users/ivnpvl/badges/small" />](https://www.codewars.com/users/ivnpvl/)
 
 <!--
 **ivnpvl/ivnpvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
