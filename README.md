@@ -21,7 +21,7 @@ My skills:
 My contacts:
 ------------
 [<img align="left" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/vanpavlov)
-[<img align="left" alt="Codewars" width="30px" src="https://www.codewars.com/users/ivnpvl/badges/small" />](https://www.codewars.com/users/ivnpvl/)
+[<img align="left" alt="Codewars" height="30px" src="https://www.codewars.com/users/ivnpvl/badges/small" />](https://www.codewars.com/users/ivnpvl/)
 
 <!--
 **ivnpvl/ivnpvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
