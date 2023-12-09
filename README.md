@@ -1,6 +1,9 @@
 Hi there!
 =========
-I'm python web developer.
+I'm Python web developer.  
+Implement various software, including server applications based on Django, DRF.  
+Currently learning Python in depth: asynchronous libraries, GUI libraries, FastApi and many others.  
+Looking for a full-time job. Open for cooperation.
 
 My skills:
 ----------
@@ -21,19 +24,6 @@ My skills:
 My contacts:
 ------------
 [<img align="left" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/vanpavlov)
-[<img align="left" alt="Codewars" height="30px" src="https://www.codewars.com/users/ivnpvl/badges/small" />](https://www.codewars.com/users/ivnpvl/)
+[<img align="left" alt="HeadHunter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/600px-HeadHunter_logo.png" />](https://penza.hh.ru/resume/9561cd4eff0c8865bc0039ed1f33476b6c6651)
+[<img align="left" alt="Codewars" height="30px" src="https://www.codewars.com/users/ivnpvl/badges/large" />](https://www.codewars.com/users/ivnpvl/)
 
-<!--
-**ivnpvl/ivnpvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
