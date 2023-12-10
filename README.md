@@ -2,7 +2,7 @@ Hi there!
 =========
 I'm Python web developer.  
 Implement various software, including server applications based on Django, DRF.  
-Currently learning Python in depth: asynchronous libraries, GUI libraries, FastApi and many others.  
+Currently learning Python in depth: asyncio, FastApi, GUI libraries, and many others.  
 Looking for a full-time job. Open for cooperation.
 
 My skills:
