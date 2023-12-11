@@ -26,4 +26,3 @@ My contacts:
 [<img align="left" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/vanpavlov)
 [<img align="left" alt="HeadHunter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/600px-HeadHunter_logo.png" />](https://penza.hh.ru/resume/9561cd4eff0c8865bc0039ed1f33476b6c6651)
 [<img align="left" alt="Codewars" height="30px" src="https://www.codewars.com/users/ivnpvl/badges/large" />](https://www.codewars.com/users/ivnpvl/)
-
